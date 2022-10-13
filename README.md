@@ -1,4 +1,4 @@
-## Proyecto final capacitación UTN BA - Incluyeme
+## Proyecto final capacitación UTN BA 
 
 ### CRUD con NodeJs
 
